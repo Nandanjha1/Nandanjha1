@@ -1,3 +1,7 @@
+Write a program to taking order from customer and calculate their bill.
+
+
+
 def take_pizza_order():
     size = input("Enter pizza size (S, M, L): ").upper()
     pepperoni = input("Do you want pepperoni? (Y/N): ").upper()
