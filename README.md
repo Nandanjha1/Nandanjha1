@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandanjha1&label=Profile%20views&color=0e75b6&style=flat" alt="nandanjha1" /> </p>
 
-<p align="left"> <a href="https://github.com/Nandanjha1/project"><img src="https://github-profile-trophy.vercel.app/?username=nandanjha1" alt="nandanjha1" /></a> </p>
+<p align="left"> <a href="https://github.com/Nandanjha1"><img src="https://github-profile-trophy.vercel.app/?username=nandanjha1" alt="nandanjha1" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/nandank20526354" target="blank"><img src="https://img.shields.io/twitter/follow/nandank20526354?logo=twitter&style=for-the-badge" alt="nandank20526354" /></a> </p>
 
