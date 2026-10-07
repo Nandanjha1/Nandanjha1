@@ -7,17 +7,16 @@
 
 <p align="left"> <a href="https://twitter.com/nandank20526354" target="blank"><img src="https://img.shields.io/twitter/follow/nandank20526354?logo=twitter&style=for-the-badge" alt="nandank20526354" /></a> </p>
 
-- 🔭 I’m currently working on [StackAcademy](https://github.com/Nandanjha1/StackAcademy)
 
-- 🌱 I’m currently learning **Business Analytics, Machine Learning, etc**
+- 🌱 I’m currently learning **Frappe, ERPNext, etc**
 
 - 👨‍💻 All of my projects are available at [https://nandanjha1.github.io/My_Portfolio/](https://nandanjha1.github.io/My_Portfolio/)
 
 - 📝 You can connect with me on linkdln [https://www.linkedin.com/in/nandan-kumar-6b2297322/](https://www.linkedin.com/in/nandan-kumar-6b2297322/)
 
-- 💬 Ask me about **ReactJs, NodeJs, MongoDB, Mysql, Python**
+- 💬 Ask me about **ReactJs, Mysql, Python**
 
-- 📫 How to reach me **maachandi2@gmail.com**
+- 📫 How to reach me **nandankumarjha100@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1dQRspUS60aSvm-VFGwcTAoel81RQ-i58/view?usp=drive_link](https://drive.google.com/file/d/1dQRspUS60aSvm-VFGwcTAoel81RQ-i58/view?usp=drive_link)
 
